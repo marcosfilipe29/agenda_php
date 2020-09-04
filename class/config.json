@@ -1,0 +1,6 @@
+{
+  "db": "agenda",
+  "localhost": "localhost:3306",
+  "user": "root",
+  "pass": "root"
+}
